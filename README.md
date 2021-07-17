@@ -1,8 +1,8 @@
 # A-Fine-Windy-Day
 
-Dataset: https://www.kaggle.com/synergystud/a-fine-windy-day-hackerearth-ml-challenge?select=train_data.csv
-EDA and Preprocessing: https://www.kaggle.com/aryarishabh/predicting-the-power-generated-using-mixed-model
-Bayesian Optimization: https://github.com/lucarabbione/BayesianOptimization/blob/master/bayopt%2Bxgbregressor.ipynb
+Dataset: https://www.kaggle.com/synergystud/a-fine-windy-day-hackerearth-ml-challenge?select=train_data.csv <br>
+EDA and Preprocessing: https://www.kaggle.com/aryarishabh/predicting-the-power-generated-using-mixed-model <br>
+Bayesian Optimization: https://github.com/lucarabbione/BayesianOptimization/blob/master/bayopt%2Bxgbregressor.ipynb <br><br>
 
 
 | Model  | R2     | RMSE | MAE|
